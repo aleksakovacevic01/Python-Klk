@@ -1,0 +1,39 @@
+Proizvod,Cena,Akcija,Popust
+Brasno,70,FALSE,0
+Ulje,200,FALSE,0
+Mleko,90,FALSE,0
+Jogurt,120,FALSE,0
+Pivo,80,FALSE,0
+Vino,350,FALSE,0
+Cokolada,200,FALSE,0
+Prasak za ves,1500,FALSE,0
+Sampon,200,FALSE,0
+Toalet papir,500,FALSE,0
+Zvake,65,FALSE,0
+Kupka,200,FALSE,0
+Sijalica,115,FALSE,0
+Sapun,50,FALSE,0
+Hleb,60,FALSE,0
+Kisela voda,40,FALSE,0
+Kokta,100,FALSE,0
+Kafa,220,FALSE,0
+Caj,55,FALSE,0
+Brasno,70,TRUE,10
+Ulje,200,TRUE,50
+Mleko,90,TRUE,5
+Jogurt,120,TRUE,5
+Pivo,80,TRUE,10
+Vino,350,TRUE,25
+Cokolada,200,TRUE,33
+Prasak za ves,1500,TRUE,5
+Sampon,200,TRUE,10
+Toalet papir,500,TRUE,15
+Zvake,65,TRUE,20
+Kupka,200,TRUE,30
+Sijalica,115,TRUE,10
+Sapun,50,TRUE,5
+Hleb,60,TRUE,5
+Kisela voda,40,TRUE,10
+Kokta,100,TRUE,20
+Kafa,220,TRUE,15
+Caj,55,TRUE,10
